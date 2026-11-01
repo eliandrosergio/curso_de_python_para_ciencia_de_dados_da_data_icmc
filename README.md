@@ -108,7 +108,7 @@ Distribuído sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para 
 
 ## Autor
 
-**Eliandro Sérgio**
+**Eliandro Sérgio** | [GitHub](https://github.com/eliandrosergio) | [Portefólio](https://eliandro.ngolabyte.ao)
 
 ---
 
